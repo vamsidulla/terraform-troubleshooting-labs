@@ -1,0 +1,13 @@
+.terraform/
+.lab-work/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfplan.json
+crash.log
+crash.*.log
+__pycache__/
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
